@@ -1,4 +1,4 @@
-,CLIENTNUM,Category,Age,Sex,Dependants,Education,Civil Status,Annual Salary Range,Card Category,Months as a Client,Contracted Products,Inactivity 12m,Contacts 12m,Limit,Consumed Limit,Limit Available,Changes Transactions_Q4_Q1,Valor Transactions 12m,Qty of Transactions 12m,Change Qty of Transactions_Q4_Q1,Card
+,CLIENTNUM,Category,Age,Sex,Dependants,Education,Civil Status,Annual Salary Range,Card Category,Months as a Client,Contracted Products,Inactivity 12m,Contacts 12m,Limit,Consumed Limit,Limit Available,Changes Transactions_Q4_Q1,Valor Transactions 12m,Qty of Transactions 12m,Change Qty of Transactions_Q4_Q1,Card usage Fee
 0,768805383,Customers,45,M,3,High School,Married,$60K - $80K,Blue,39,5,1,3,12691.0,777,11914.0,1335.0,1144,42,1625.0,0.061
 1,818770008,Customers,49,F,5,Higher Education,Single,Less than $40K,Blue,44,6,1,2,8256.0,864,7392.0,1541.0,1291,33,3714.0,0.105
 2,713982108,Customers,51,M,3,Higher Education,Married,$80K - $120K,Blue,36,4,1,0,3418.0,0,3418.0,2594.0,1887,20,2333.0,0.0
