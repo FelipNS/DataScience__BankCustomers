@@ -1,5 +1,5 @@
 # SOBRE
-Nesse projeto foi utilizado técnicas e tecnologias para o [pré-processamento e análise dos dados][link_preprocessing] e depois para o desenvolvimento de uma [máquina preditiva][link_machine] capaz de avaliar o potencial de um ciente cancelar o cartão, dado ao seu histórico de uso e suas informações pessoais.
+Nesse projeto foi utilizado técnicas e tecnologias para o [pré-processamento e análise dos dados][link_preprocessing] e depois para o desenvolvimento de uma [máquina preditiva][link_machine] capaz de avaliar o potencial de um cliente cancelar o cartão, dado ao seu histórico de uso e suas informações pessoais.
 ****
 #### TECNOLOGIAS UTILIZADAS:
 - Python;
